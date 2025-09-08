@@ -1,6 +1,6 @@
 # 👋 Hola, soy Shandler Moscoso  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Desarrollador+Web;Apasionado+por+la+tecnología;Aprendiz+constante;Construyendo+mi+camino)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Desarrollador+Web;Apasionado+por+la+tecnología;Aprendiz+constante;Construyendo+mi+camino;Explorando+nuevas+tecnologías;Creando+soluciones+con+impacto;Siempre+aprendiendo+y+mejorando)
 
 ---
 
