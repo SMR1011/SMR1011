@@ -90,17 +90,17 @@ Experiencia construyendo APIs REST, aplicaciones web y soluciones móviles utili
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SMR1011\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMR1011\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMR1011&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMR1011&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
 ## 📫 Contacto
 
 📧 Email: [shandler1011@gmail.com](mailto:shandler1011@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/tuusuario/
 
 ---
 
