@@ -1,71 +1,109 @@
-# 👋 Hola, soy Shandler Moscoso  
+# 👋 Hola, soy Shandler Moscoso
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Desarrollador+Web;Apasionado+por+la+tecnología;Aprendiz+constante;Construyendo+mi+camino;Explorando+nuevas+tecnologías;Creando+soluciones+con+impacto;Siempre+aprendiendo+y+mejorando)
-
----
-
-## ⚡ Frases que me inspiran  
-*"La innovación distingue a un líder de un seguidor."* – Steve Jobs  
-*"La educación es el arma más poderosa que puedes usar para cambiar el mundo."* – Nelson Mandela  
+💻 **Software Engineer | Backend & Fullstack Developer**
+📍 Lima, Perú
 
 ---
 
-## 🧭 Sobre mí  
-💻 Desarrollador en formación con interés en **backend, frontend y bases de datos**.  
-🚀 Mi objetivo es crecer como profesional y crear proyectos que generen impacto.  
-🌱 Actualmente aprendiendo **Laravel, React y MySQL**.  
-🎯 Motivado por el aprendizaje continuo y la mejora constante.  
+## 🚀 Sobre mí
+
+Ingeniero de Software con enfoque en desarrollo backend y fullstack.
+Experiencia construyendo APIs REST, aplicaciones web y soluciones móviles utilizando tecnologías modernas.
+
+🔹 Especializado en Laravel, React y desarrollo de APIs
+🔹 Experiencia con autenticación, CRUD y bases de datos
+🔹 Enfocado en escribir código limpio y escalable
+
+🎯 Actualmente enfocado en:
+
+* Backend con Laravel
+* Arquitectura de software
+* Integración futura de Inteligencia Artificial
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+## 🧰 Tech Stack
 
-### 👨‍💻 Lenguajes de Programación  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🖥️ Lenguajes
 
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & Frameworks  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Bases de Datos  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Control de Versiones y Herramientas  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 
 ---
 
-## 📌 Proyectos Destacados  
-🔗 [**App de Reservas**](https://github.com/SMR1011/restaurant-reservas) – Aplicación móvil para reservas en restaurantes emergentes  
-🔗 [**Gestor de Estudiantes**](https://github.com/SMR1011/student-crud) – CRUD completo con Laravel + API REST  
+### ⚙️ Frameworks
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ---
 
-## 📊 Mis estadísticas en GitHub  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SMR1011&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMR1011&layout=compact&theme=tokyonight)  
+### 🗄️ Bases de Datos
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
 ---
 
-## 🌍 Conectemos  
-📫 **Email:** shandler1011@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)  
+### 🔗 Backend & Seguridad
+
+![API](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)
+![Sanctum](https://img.shields.io/badge/Auth-Sanctum-green?style=for-the-badge)
+![Spatie](https://img.shields.io/badge/Roles-Spatie-orange?style=for-the-badge)
 
 ---
 
-> *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."* – Robert Collier  
+### 🛠️ Herramientas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+## 💼 Proyectos Destacados
+
+### 🔹 App de Reservas (Android)
+
+📌 Aplicación móvil para gestión de reservas en restaurantes
+
+✔ Sistema de autenticación (login, registro)
+✔ Historial de reservas
+✔ Base de datos SQLite
+✔ Navegación entre pantallas
+
+🔗 https://github.com/SMR1011/restaurant-reservas
+
+---
+
+### 🔹 API REST - Laravel
+
+📌 API para gestión de estudiantes y lenguajes
+
+✔ Autenticación con Laravel Sanctum
+✔ CRUD completo
+✔ Arquitectura (Services, Requests, Resources)
+✔ Roles y permisos con Spatie
+
+🔗 https://github.com/SMR1011/student-crud
+
+---
+
+## 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SMR1011\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMR1011\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+📧 Email: [shandler1011@gmail.com](mailto:shandler1011@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/tuusuario/
+
+---
+
+## 💡 Filosofía
+
+> "Construir soluciones reales y mejorar constantemente como desarrollador." 🚀
